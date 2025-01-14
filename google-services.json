@@ -1,0 +1,34 @@
+
+{
+  "project_info": {
+    "project_id": "your-firebase-project-id",
+    "project_number": "1234567890",
+    "name": "ContactManagementApp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1234567890:android:abcdef123456",
+        "android_client_info": {
+          "package_name": "com.example.contact_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1234567890-abcdefghijklmnopqrstuvwxyz.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contact_management_app",
+            "certificate_hash": "abcdef1234567890abcdef1234567890abcdef12"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-1234567890abcdef1234567890abcdef"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
